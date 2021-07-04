@@ -111,10 +111,15 @@ a:hover, #contactDetails ul li a:hover {
 }
 .nestedNews > ul {	list-style-type: "\203A \0020";	list-style-position: outside;}.nestedNews > ul > li {	color: #444;}
 .nestedNews > ul > li > ul{	font-size: 1em;	list-style-type: "\00BB \0020"; margin-bottom: 0px; }
-.nestedNewsMulti {   
+.nestedNewsMulti3 {   
 	columns: 3;
   -webkit-columns: 3;
   -moz-columns: 3;
+}
+.nestedNewsMulti2 {   
+	columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
 }
 section {
 	border-top: 1px solid #dedede;
