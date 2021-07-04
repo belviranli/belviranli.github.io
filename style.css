@@ -110,7 +110,7 @@ a:hover, #contactDetails ul li a:hover {
 	color: #cf8a05;
 }
 .nestedNews > ul {	list-style-type: "\203A \0020";	list-style-position: outside;}.nestedNews > ul > li {	color: #444;}
-.nestedNews > ul > li > ul{	font-size: 1em;	list-style-type: "\00BB \0020";}
+.nestedNews > ul > li > ul{	font-size: 1em;	list-style-type: "\00BB \0020"; margin-bottom: 0px; }
 section {
 	border-top: 1px solid #dedede;
 	padding: 20px 0 0;
