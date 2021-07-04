@@ -116,10 +116,10 @@ a:hover, #contactDetails ul li a:hover {
   -webkit-columns: 3;
   -moz-columns: 3;
 }
-.nestedNewsMulti2 {   
-	columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
+.nestedNewsMulti4 {   
+	columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
 }
 section {
 	border-top: 1px solid #dedede;
